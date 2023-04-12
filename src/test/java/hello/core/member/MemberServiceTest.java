@@ -11,7 +11,6 @@ import org.junit.jupiter.api.Test;
 class MemberServiceTest {
 
     MemberService memberService;
-    OrderService orderService;
 
     @BeforeEach
     public void beforeEach() {
